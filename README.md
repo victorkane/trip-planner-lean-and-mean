@@ -1,6 +1,6 @@
 ### Trip Planner Lean 'n Mean
 
-Clone the repo and run the server: 
+Clone the repo, install the necessary dependencies, and run the server:
 
 ````
 $ git clone git@github.com:victorkane/trip-planner-lean-and-mean.git
